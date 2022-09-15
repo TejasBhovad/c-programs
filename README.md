@@ -7,7 +7,7 @@ Currently the repository contains :
 - experiments dictated in class
 
 To download all files, click on download zip and then unzip the file from your downloads folder
-[![Screenshot-2022-09-15-at-8-44-45-PM.png](https://i.postimg.cc/1tGsSRQx/Screenshot-2022-09-15-at-8-44-45-PM.png)](https://postimg.cc/5Y2ZqVyp)
+![Alt Text](https://i.postimg.cc/1tGsSRQx/Screenshot-2022-09-15-at-8-44-45-PM.png)
 
 ## Linux commands
 
