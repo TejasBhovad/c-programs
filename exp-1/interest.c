@@ -1,3 +1,4 @@
+// WAP in c to calculate Simple interest And compound interest
 #include <stdio.h>
 #include <math.h>
 int main(){

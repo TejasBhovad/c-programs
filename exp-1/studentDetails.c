@@ -1,4 +1,6 @@
+// Accept and print name,rollno and marks percent of student
 #include <stdio.h>
+#include <string.h>
 int main(){
     // you might get a warning saying "format specifies type 'char *'..." but it works fine 
     char name[30];

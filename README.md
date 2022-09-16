@@ -4,11 +4,13 @@ The following repository contains all the c program files given to solve in lect
 Currently the repository contains :
 
 - lecture-1 programs
-- experiments dictated in class
+- set of experiments
 
 To download all files, click on download zip and then unzip the file from your downloads folder
+
 ![Alt Text](https://i.postimg.cc/1tGsSRQx/Screenshot-2022-09-15-at-8-44-45-PM.png)
 
+Note: The program files are compiled using VS Code with code-runner extension and not using turboC so to compile code in TurboC you might need to add `<conio.h>` `clrscr()` `getch()`
 ## Linux commands
 
 `cd Desktop/` - change working directory

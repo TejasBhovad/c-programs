@@ -1,3 +1,4 @@
+// WAP in C to evaluate speed equations
 #include <stdio.h>
 int main(){
     double u, a, t, v, s;
