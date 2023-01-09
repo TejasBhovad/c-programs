@@ -13,7 +13,6 @@ Currently the repository contains :
 
 To download all files, click on download zip and then unzip the file from your downloads folder.
 
-All programs to be written in the journal are not included in this repository to prevent plagiarism.
 
 ![Alt Text](https://i.postimg.cc/1tGsSRQx/Screenshot-2022-09-15-at-8-44-45-PM.png)
 
