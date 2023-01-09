@@ -8,6 +8,8 @@ Currently the repository contains :
 - [Arrays Programs](arrays/programs.md)
 - [Journal Programs](https://github.com/TejasBhovad/journal-1)
 - [Pointers Programs](./pointers/pointers.md)
+- [Recursion Programs](./recursion/recursion.md)
+- [Practicals Programs](https://github.com/TejasBhovad/practicals)
 
 To download all files, click on download zip and then unzip the file from your downloads folder.
 
