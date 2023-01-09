@@ -5,8 +5,9 @@ Currently the repository contains :
 
 - Old programs
 - [Loop Patterns](patterns/programs.md)
--  [Arrays Programs](arrays/programs.md)
+- [Arrays Programs](arrays/programs.md)
 - [Journal Programs](https://github.com/TejasBhovad/journal-1)
+- [Pointers Programs](./pointers/pointers.md)
 
 To download all files, click on download zip and then unzip the file from your downloads folder.
 

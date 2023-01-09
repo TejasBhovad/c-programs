@@ -1,4 +1,4 @@
-# Patterns in C
+# Pointers in C
 
 ### 1. WAP to add two numbers using pointers
 
