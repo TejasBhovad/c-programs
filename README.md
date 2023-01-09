@@ -9,10 +9,10 @@ Currently the repository contains :
 - [Journal Programs](https://github.com/TejasBhovad/journal-1)
 - [Pointers Programs](./pointers/pointers.md)
 - [Recursion Programs](./recursion/recursion.md)
+- [String Programs](./string/string.md)
 - [Practicals Programs](https://github.com/TejasBhovad/practicals)
 
 To download all files, click on download zip and then unzip the file from your downloads folder.
-
 
 ![Alt Text](https://i.postimg.cc/1tGsSRQx/Screenshot-2022-09-15-at-8-44-45-PM.png)
 
